@@ -1,0 +1,54 @@
+.menu {
+    font-weight: bold;
+}
+.tabs .tab a{
+    color:#000;
+}
+
+.text-navbar {
+    margin-left: 225px;
+}
+
+.div-side {
+
+    position:relative;
+    border-width:2px;
+    width:100px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: 16px;
+    float: left;
+}
+
+.div-first {
+
+    margin-left: 225px;
+    border-width:2px;
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    font-size: 16px;
+    float: left;
+}
+
+.menu-title {
+    font-weight: bold;
+}
+
+.menu-item {
+
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.promotions {
+
+    margin-top: 15px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+i.black-input {
+    color: black;
+}

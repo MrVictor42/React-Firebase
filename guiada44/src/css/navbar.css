@@ -1,0 +1,53 @@
+nav{
+    padding: 0 10px 0 10px;
+}
+
+nav .right{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.nav-wrapper form{
+    margin: auto;
+    width: 50%;
+}
+
+.nav-wrapper .input-field{
+    padding-top: 7px;
+    margin-left: 125px;
+    margin-right: 40px;
+    width: 350px;
+}
+
+.nav-wrapper form #search{
+    height: 50px;
+}
+
+nav .right img{
+    margin: 17px;
+    height: 30px;
+    width: 30px;
+    border: 2px solid white;
+    cursor: pointer;
+}
+
+nav .right .imgProfil a{
+    height: 64px;
+}
+
+.hidden{
+    display: none;
+}
+
+.logo {
+    margin-left: 200px;
+}
+
+.side-right {
+    margin-left: -447px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+  
